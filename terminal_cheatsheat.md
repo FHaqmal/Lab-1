@@ -15,7 +15,7 @@ bashrc.backup cp -R Movies Movies.backup
 * 		rm and rmdir Delete a file or a folder. 
 * 
 * cat,  Lets you view the content of a text file. For example: cat 
-.bashrc more .bashrc less .bashrc
+.bashrc more .bashrc less 
 
 * git add. Use: git add [file] ...
 * git commit. Use: git commit -m “[ Type in the commit message]” ...
